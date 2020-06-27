@@ -1,7 +1,3 @@
-# vuejs-pokemons
-
-- [Demonstration on Youtube](https://youtu.be/8pFkiNvxnD0)
-
 ## Project setup
 ```
 npm install
